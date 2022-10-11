@@ -17,7 +17,15 @@
       "title": "Good Day"
     }
   ],
-  "registeredUsers": [],
+  "registeredUsers": [
+    {
+      "id": 1,
+      "email": "rohitbpatil@nimapinfotech.com",
+      "mobileno": "9657184342",
+      "name": "Rohit Patil",
+      "password": "Admin@123"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
