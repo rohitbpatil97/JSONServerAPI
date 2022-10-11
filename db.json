@@ -20,29 +20,13 @@
     "registeredUsers": [
     {
       "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "Welcome"
-    },
-    {
-      "id": 3,
-      "title": "Great"
-    },
-    {
-      "id": 4,
-      "title": "Good Day"
-    },
-    {
-      "id": 5,
       "email": "rohitbpatil@nimapinfotech.com",
       "mobileno": "9657184342",
       "name": "Rohit Patil",
       "password": "Admin@123"
     },
     {
-      "id": 6,
+      "id": 2,
       "email": "ajaypatil@nimapinfotech.com",
       "mobileno": "9657184342",
       "name": "Ajay Patil",
