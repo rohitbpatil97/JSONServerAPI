@@ -22,8 +22,13 @@
   },
   "registeredUsers": [
     {
-      "id": 10
+      "id": 10,
+      "name": "Rohit"
     },
-    
+    {
+      "id": 11,
+      "name": "Ajay"
+      
+    }
   ]
 }
